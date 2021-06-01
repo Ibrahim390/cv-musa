@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#img1{
+    height:50px;
+    width:80px;
+    border-radius:50%;
+}
+
+img{
+
+    height:200px;
+    width:100%
+}
